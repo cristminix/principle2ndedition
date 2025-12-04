@@ -1,0 +1,19 @@
+{
+  "name": "principle-2nd-edition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.77",
+    "@mastra/core": "^0.24.6",
+    "ai": "^5.0.106",
+    "zod": "^4.1.13"
+  },
+  "packageManager": "pnpm@10.22.0",
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
+}
