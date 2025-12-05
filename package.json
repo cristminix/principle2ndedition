@@ -10,10 +10,12 @@
     "@ai-sdk/openai": "^2.0.77",
     "@mastra/core": "^0.24.6",
     "ai": "^5.0.106",
-    "zod": "^4.1.13"
+    "zod": "^3.23.8"
   },
   "packageManager": "pnpm@10.22.0",
   "devDependencies": {
-    "@types/node": "^24.10.1"
+    "@types/node": "^24.10.1",
+    "dotenv": "^17.2.3",
+    "tsx": "^4.21.0"
   }
 }
